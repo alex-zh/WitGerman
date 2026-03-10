@@ -1,0 +1,31 @@
+agentID 
+
+contact db - появляется agentID
+
+делаем таблицу 
+
+agentId - contact1
+agentId - contact2
+agentId - contact3
+
+if agent not reach out to N (8) - пытаемся набрать так что 
+
+
+sampleSettings.QuotaBalancing.UseQuotaBalancing
+
+что означает size в Quota Balance?
+ 
+
+POCO
+
+Xiomio 12 T PRO
+
+Xiomi 14 T PRO
+
+Xiomi 15 Ultra PRO
+
+13 Readme Note
+
+unijuine 
+
+
